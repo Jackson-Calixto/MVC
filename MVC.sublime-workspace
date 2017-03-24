@@ -1,0 +1,362 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ob_get",
+				"ob_get_contents"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"Pesso",
+				"PessoaAdapter"
+			],
+			[
+				"ida",
+				"idade"
+			],
+			[
+				"cara",
+				"cara2"
+			],
+			[
+				"vie",
+				"viewData"
+			],
+			[
+				"call_",
+				"call_user_func_array"
+			],
+			[
+				"CURR",
+				"currentController"
+			],
+			[
+				"curren",
+				"currentAction"
+			],
+			[
+				"arr",
+				"array\t$… = array (…)"
+			],
+			[
+				"curr",
+				"currentAction"
+			],
+			[
+				"spl_au",
+				"spl_autoload_register"
+			],
+			[
+				"se",
+				"session_start"
+			],
+			[
+				"exe",
+				"execute"
+			],
+			[
+				"u",
+				"usuario"
+			],
+			[
+				"sessio",
+				"session_start"
+			],
+			[
+				"co",
+				"cookie"
+			],
+			[
+				"cook",
+				"session_get_cookie_params"
+			],
+			[
+				"bas",
+				"base64_encode"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ver",
+				"VERSION"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"nom",
+				"nome"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".htaccess",
+			"settings":
+			{
+				"buffer_size": 134,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp/www/mvc"
+	],
+	"file_history":
+	[
+		"/C/wamp/www/environment.php",
+		"/C/wamp/www/config.php",
+		"/C/wamp/www/index.php",
+		"/C/wamp/www/core/.htaccess",
+		"/W/www/mvc/.htaccess",
+		"/W/www/mvc/config.php",
+		"/W/www/MVC/.htaccess",
+		"/C/wamp/bin/apache/apache2.4.9/conf/httpd.conf",
+		"/W/www/index.php",
+		"/W/www/pagina.php",
+		"/W/www/cache.cache",
+		"/W/www/core/core.php",
+		"/W/www/.htaccess",
+		"/W/www/views/template.php",
+		"/W/www/assets/css/style.css",
+		"/W/www/controllers/homeController.php",
+		"/W/www/environment.php",
+		"/W/www/config.php",
+		"/W/www/models/fotos.php",
+		"/W/www/views/home.php",
+		"/W/www/core/model.php",
+		"/W/www/enviroment.php",
+		"/W/www/views/sobre.php",
+		"/W/www/controllers/postsController.php",
+		"/W/www/core/controller.php",
+		"/W/www/models/usuario.php",
+		"/W/www/controllers/testeController.php",
+		"/W/campo.class.php",
+		"/W/usuario.php",
+		"/W/usuarios.php",
+		"/W/index.php",
+		"/W/banco.php",
+		"/C/wamp/www/projetox/config.php",
+		"/C/wamp/www/projetox/adicionar.php",
+		"/C/wamp/www/projetox/editar.php",
+		"/C/wamp/www/projetox/excluir.php",
+		"/C/wamp/www/projetox/login.php",
+		"/C/app/HDHDML1_overview_op_data.txt",
+		"/C/wamp/www/projetox/PDORemote.php",
+		"/C/wamp/www/projetox/insert.php",
+		"/C/wamp/www/projetox/PDO.php",
+		"/C/wamp/www/projetox/SESSION.php",
+		"/C/wamp/www/projetox/COOKIE.php",
+		"/C/wamp/www/projetox/recebedor.php",
+		"/C/wamp/www/projetox/include.php",
+		"/C/wamp/www/projetox/action.php",
+		"/C/wamp/www/projetox/constant.php",
+		"/C/wamp/www/projetox/teste.php",
+		"/C/wamp/www/projetoteste2/index.php"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".htaccess",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 134,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "MVC.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
