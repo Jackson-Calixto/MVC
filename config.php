@@ -6,7 +6,7 @@ $config = array();
 if(ENVIROMENT == "development") {
 	$config['dbname'] = 'galeria';
 	$config['host'] = '127.0.0.1';
-	$config['dbuser'] = 'ezyro_19504781';
+	$config['dbuser'] = 'nanotech';
 	$config['dbpass'] = 'nanotech';
 } else {
 	$config['dbname'] = 'galeria';

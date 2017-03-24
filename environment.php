@@ -1,2 +1,2 @@
 <?php 
-define("ENVIROMENT", "nodevelopment");
+define("ENVIROMENT", "development");
