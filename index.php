@@ -2,7 +2,7 @@
 
 require 'config.php';
 
-define("BASE_URL", "http://127.0.0.1/");
+define("BASE_URL", "http://127.0.0.1/mvc");
 
 spl_autoload_register(function($class){
 	if(strpos($class, 'Controller') > -1) {

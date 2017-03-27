@@ -1,1 +1,1 @@
-<h1>Esta p·gina È a sobre</h1>
+<h1>Esta p√°gina √© a sobre</h1>

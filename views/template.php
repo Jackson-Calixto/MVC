@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Título do site</title>
+		<title>TÃ­tulo do site</title>
 		<link rel="stylesheet" type="text/css" href="<?php echo BASE_URL;?>/assets/css/style.css">
 	</head>
 	<body>
@@ -8,6 +8,6 @@
 
 		<?php $this->loadViewInTemplate($viewName, $viewData); ?>
 
-		<h1>Rodapé do meu site</h1>
+		<h1>RodapÃ© do meu site</h1>
 	</body>
 </html>
